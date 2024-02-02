@@ -1,4 +1,4 @@
-### Hi there, I am Samuel 👋
+# Hi there, I am Samuel 👋
 
 ## About me 🚀
 
