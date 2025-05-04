@@ -8,10 +8,10 @@ I'm Samuel Tabares Leon, fourth-semester Software Engineering student at Centro 
 
 ## TECHNICAL SKILLS
 
-Frontend Development: HTML5, CSS3, JavaScript, React, Bootstrap, Tailwind CSS
-Backend Development: Python, Django, MySQL, SQLite
-Tools: Git, GitHub, VSCode
-Languages: Spanish (native), English (certified C1)
+Frontend Development: HTML5, CSS3, JavaScript, React, Bootstrap, Tailwind CSS<br>
+Backend Development: Python, Django, MySQL, SQLite<br>
+Tools: Git, GitHub, VSCode<br>
+Languages: Spanish (native), English (certified B2)<br>
 
 ## WORKING STYLE
 
@@ -27,9 +27,9 @@ My goal is to become an exceptional fullstack developer, while exploring technol
 
 ## VALUES
 
-Patience for complex challenges
-Empathy toward colleagues and users
-Ability to offer new perspectives
-Helpful and collaborative spirit
+Patience for complex challenges<br>
+Empathy toward colleagues and users<br>
+Ability to offer new perspectives<br>
+Helpful and collaborative spirit<br>
 Understanding of team needs<br>
 
