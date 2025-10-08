@@ -4,7 +4,7 @@
 
 ## PROFESSIONAL PROFILE
 
-I'm Samuel Tabares Leon, fourth-semester Software Engineering student at Centro Universitario Empresarial Alexander von Humboldt. At 19, I stand out for my exceptional ability to master new technologies quickly and my unwavering commitment to excellence. When I take on a project, I pursue perfection. Mediocrity is never an option.
+I'm Samuel Tabares Leon, fourth-semester Software Engineering student at Corporación Universitaria Empresarial Alexander von Humboldt. At 19, I stand out for my exceptional ability to master new technologies quickly and my unwavering commitment to excellence. When I take on a project, I pursue perfection. Mediocrity is never an option.
 
 ## TECHNICAL SKILLS
 
@@ -23,7 +23,7 @@ I've developed projects including graphical interfaces, databases, complete web 
 
 ## ASPIRATIONS
 
-My goal is to become an exceptional fullstack developer, while exploring technologies like blockchain and Web3 to create innovative solutions. I seek to apply my accelerated learning capacity and perfectionism in projects that make a difference while continuing my professional growth.
+My goal is to become an exceptional fullstack developer, centered on AI, while exploring technologies like blockchain and Web3 to create innovative solutions. I seek to apply my accelerated learning capacity and perfectionism in projects that make a difference while continuing my professional growth.
 
 ## VALUES
 
