@@ -36,10 +36,15 @@ My focus today is **AI: autonomous agents, automation, RAG and LLMs**, backed by
 
 ### ⭐ Featured work
 
-**[Trabix](https://github.com/Samuel-Tabares/trabix-bot)** — a production WhatsApp ordering bot for a real business, written in **Rust**.
-A full system, not a demo: conversation state machine, PostgreSQL persistence, order & checkout flow, advisor handoff, timers with timeout recovery, plus a local simulator that runs the same core runtime. Dockerized and deployed on Railway.
+**[Trabix Bot](https://github.com/Samuel-Tabares/trabix-bot)** — production WhatsApp ordering bot for a real business, written in **Rust**.
+Full system: conversation state machine, PostgreSQL persistence, order & checkout flow, advisor handoff, timers with timeout recovery, local simulator running the same core runtime. Dockerized, Railway.
 
 `Rust` · `axum` · `tokio` · `PostgreSQL` · `Docker` · `Railway` · `WhatsApp Cloud API`
+
+**[Trabix Portal](https://trabix-embajadores.xyz)** — production management portal for the same business ([repo](https://github.com/Samuel-Tabares/accountability_app)).
+Admin + embajador roles, FIFO production batches, commissions, PDF billing, rate-limited API. In production on Vercel.
+
+`Next.js` · `Supabase` · `PostgreSQL` · `Upstash Redis` · `TypeScript` · `Vercel`
 
 ---
 
@@ -53,6 +58,7 @@ A full system, not a demo: conversation state machine, PostgreSQL persistence, o
 
 **Backend & AI**
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![axum](https://img.shields.io/badge/axum-000000?style=flat&logo=rust&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/LLMs-412991?style=flat&logo=openai&logoColor=white)
@@ -60,6 +66,7 @@ A full system, not a demo: conversation state machine, PostgreSQL persistence, o
 
 **Frontend**
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 
 **Data & Infra**
