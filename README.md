@@ -19,7 +19,7 @@ I'm a software engineer and builder from Armenia, Colombia. I design and ship **
 My focus today is **AI: autonomous agents, automation, RAG and LLMs**, backed by solid backend engineering. I work mainly with **Python** and **Rust**, and I care about one thing: solving real, everyday problems with whatever technology the moment demands.
 
 - 🔭 Currently building a **multi-model AI SaaS** and a **multi-agent system**
-- 🌱 Going deeper into **Rust**, **autonomous agents** and **AI × Web3**
+- 🌱 Going deeper into **Rust**, **LangGraph / LangChain**, **Claude API** and **AI × Web3**
 - 🛠️ Open to **freelance projects** and the right opportunities
 - 🌎 Spanish (native) · English (B2, certified) · German (learning)
 
@@ -63,6 +63,8 @@ Admin + embajador roles, FIFO production batches, commissions, PDF billing, rate
 ![axum](https://img.shields.io/badge/axum-000000?style=flat&logo=rust&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/LLMs-412991?style=flat&logo=openai&logoColor=white)
 ![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat&logo=pinecone&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Claude_API-CC785C?style=flat&logo=anthropic&logoColor=white)
 
 **Frontend**
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
